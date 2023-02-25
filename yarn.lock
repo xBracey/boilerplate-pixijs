@@ -3983,6 +3983,11 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha512-HpGFw18DgFWlncDfjTa2rcQ4W88O1mC8e8yZ2AvQY5KDaktSTwo+KRf6nHK6FRI5FyRyb/5T6+TSxfP7QyGsmQ==
 
+bump-ts@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/bump-ts/-/bump-ts-0.2.1.tgz#87a807fe60a163f0ebb5ec5e9e19ed49a89d9d80"
+  integrity sha512-t9q6VhN0ZIo1Lq2SbM4CHNfAkz9i/upRtMGsTer/fAE6Z9+NNLcB5BPg8QOAMufMMV8QXWD80jJs+6CxHvbEKQ==
+
 bytes@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.0.0.tgz#d32815404d689699f85a4ea4fa8755dd13a96048"
